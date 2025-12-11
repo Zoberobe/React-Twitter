@@ -66,8 +66,10 @@ python manage.py migrate
 python manage.py runserver
 
 The API will be available at http://127.0.0.1:8000/
-
+```
+---
 ### 2. Frontend Setup (React)
+```bash
 # Navigate to frontend folder (root)
 cd codeleap-network
 
@@ -78,7 +80,7 @@ npm install
 npm run dev
 
 The app will be available at http://localhost:5173/
-
+```
 🎨 Key Architectural Decisions
 To ensure scalability and maintainability, the project follows clean architecture principles:
 
@@ -101,7 +103,7 @@ Toast Position: Notifications appear at the bottom with a specific offset to res
 
 Optimized Fonts: Font sizes adjusted for readability on small screens.
 
-<img width="1317" height="618" alt="Screenshot_1" src="https://github.com/user-attachments/assets/16568beb-65e2-45ab-afd6-3e54b0d65736" />
-<img width="319" height="551" alt="Screenshot_2" src="https://github.com/user-attachments/assets/4b5d727b-fba2-4319-8480-4d6aaaffcb41" />
 
+👤 Author
+Alex Augusto Castro Boscariol
 https://www.linkedin.com/in/alex-augusto-castro-boscariol-13651b1a4/
